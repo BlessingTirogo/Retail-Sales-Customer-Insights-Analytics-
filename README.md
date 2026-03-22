@@ -1,7 +1,6 @@
 # End-to-End Sales Revenue Analytics Project
 
 # Project Overview
-
 This project is a hands-on end-to-end data analytics workflow I built to practice and demonstrate real-world skills using SQL, Python, and Power BI.
 The goal was to explore sales data and answer key business questions around revenue trends, regional performance, and store-level contributions. 
 Beyond just building visuals, I focused on turning raw data into insights that can actually support decision-making.
