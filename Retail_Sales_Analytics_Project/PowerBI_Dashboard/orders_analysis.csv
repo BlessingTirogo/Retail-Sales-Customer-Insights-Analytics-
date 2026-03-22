@@ -1,0 +1,7 @@
+order_id,order_date,customer_id,store_name,region,total_sales
+1,2023-06-05,1,NY Downtown,North America,1500.0
+2,2023-06-06,2,London Central,Europe,800.0
+3,2023-06-10,3,Dubai Mall,Middle East,300.0
+4,2023-06-12,4,Shanghai Plaza,Asia,350.0
+6,2023-06-20,6,Berlin Hub,Europe,180.0
+7,2023-06-22,7,NY Downtown,North America,1200.0
